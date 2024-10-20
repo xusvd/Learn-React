@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <div id="header" className='m-1 p-1 bg-purple-400 text-slate-100 bold text-3xl'>Currency Converter</div>
+     <div id="header" className='m-1 p-1 bg-purple-400 text-slate-100 bold rounded text-3xl'>Currency Converter</div>
     </>
   )
 }
